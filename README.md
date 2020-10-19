@@ -18,8 +18,6 @@ My name is Brandon and I'm an undergraduate computer science student at the Univ
 
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=btror&show_icons=true&line_height=30)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btror&hide=css&layout=compact)
-
 ### Contact
 
 <a href="https://www.linkedin.com/in/brandon-rorie-082711159/">
