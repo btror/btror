@@ -23,9 +23,7 @@ My name is Brandon and I'm an undergraduate computer science student at the Univ
 <a href="https://www.linkedin.com/in/brandon-rorie-082711159/">
     <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
-<a href="https://www.instagram.com/b.ticer.r/">
-    <img alt="Shubhamdeep Jha | Instagram" width="50px" src="https://www.quicksocialmedia.co.uk/cms/instagram-master.png" />
-</a>
+
 <a href="mailto:brorie3@uncc.edu">
     <img alt="Shubhamdeep Jha | Gmail" width="50px" src="https://uploads-ssl.webflow.com/5ad4c302a9ea3372eaea975f/5b995a276460dc98cf54bd11_Gmail.png" />
 </a>
