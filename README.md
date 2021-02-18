@@ -4,8 +4,6 @@ My name is Brandon and I'm an undergraduate computer science student at the Univ
 
 ### Programming Languages
 
-- familiar with
-
 | [<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="v logo" width="70">](https://www.java.com/en/)  | [<img src="https://i.pinimg.com/originals/82/b2/3a/82b23a37bc438fc8808e1f707e0a0bc5.png" alt="go logo" width="70">](https://www.python.org/)  | [<img src="https://raw.githubusercontent.com/guiguan/autocomplete-javascript/master/images/javascript.png" width="70">](https://www.javascript.com/)  | [<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="70">](https://nodejs.org/en/)  |  [<img src="https://magixsolution.com/wp-content/uploads/2020/02/C-C-classes-kanpur.png" alt="go logo" width="70">](https://isocpp.org/)  
 |---|---|---|---|---|
 
