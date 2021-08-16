@@ -11,7 +11,11 @@ My name is Brandon. I'm an senior at UNC Charlotte studying computer science and
 ### Contact
 
 <a href="https://www.linkedin.com/in/brandon-rorie-082711159/">
-    <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
+    <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="linkedinImage.png"/>
+</a>
+
+<a href="https://www.instagram.com/b.ticer.r/">
+    <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="instagramLogoFinal.png" />
 </a>
 
 <br>
