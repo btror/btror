@@ -1,6 +1,6 @@
 ### Hi There!
 
-My name is Brandon. I graduated from UNC-Charlotte with a BS in computer science and minor in mathematics Dec, 2021. When I finish I will pursue a MS in computer science.
+My name is Brandon. I graduated from UNC-Charlotte with a BS in computer science and minor in mathematics Dec, 2021. I will pursue a MS in computer science Fall, 2022.
 
 ### Programming Languages
 
