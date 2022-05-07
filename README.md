@@ -1,6 +1,6 @@
 ### About me
 
-MSCS at the University of North Carolina at Charlotte.
+Pursuing MSCS at the University of North Carolina at Charlotte.
 
 ### Programming Languages
 
