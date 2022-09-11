@@ -1,6 +1,6 @@
 ### About me
 
-BS in Computer Science, UNCC.
+BS, Computer Science - UNCC.
 
 ### Programming Languages
 
