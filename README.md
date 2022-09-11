@@ -1,6 +1,6 @@
 ### About me
 
-Pursuing MSCS at the University of North Carolina at Charlotte.
+BS in Computer Science, UNCC.
 
 ### Programming Languages
 
